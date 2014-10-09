@@ -1,0 +1,9 @@
+import java.util.*;
+
+public class developer extends employee {
+	
+	int age=30;
+	String firstName = "Great";
+	String lastName = "Engineer";
+	
+	

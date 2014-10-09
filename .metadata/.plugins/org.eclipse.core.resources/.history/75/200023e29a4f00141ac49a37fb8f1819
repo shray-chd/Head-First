@@ -1,0 +1,15 @@
+import java.util.*;
+
+public class developer extends employee {
+	
+	int age=30;
+	String firstName = "Great";
+	String lastName = "Engineer";
+	
+	public ArrayList<Tools> myTools = new ArrayList<Tools>();
+	
+	Tool tool1 = new Tool();
+	tool1. 
+	
+
+}

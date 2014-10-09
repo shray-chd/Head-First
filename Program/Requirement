@@ -1,0 +1,20 @@
+Create a program with a following scenario.
+ 
+Engineer and Tester are two different kind of employee.
+They have their name ,fname lname, age in yrs., total experience and tools/language
+They both will do coding but their coding will be on different tool/language.
+Engineer will code on more than one tool.
+ 
+ 
+Case 1: When I ask tester which tool he has used, it should print tools name.
+Case 2: If ask engineer tool he has used it should print tool(s).
+Case (3) If ask tools and years of experience it should print tool(s) name.
+Case (4): If ask engineer name of tool and total number of experience, it should return number of yrs. of experience on that tool.
+If any of the info is not available or is not matching we will throw an exception.
+(Assumption, tool1 you can consider exp as 1yr, tool 2 -> exp 2 yrs, tool3 -> exp 3).
+ 
+Whichever method you feel comfortable with, use that. Make it modular and use concepts of oops.
+ 
+Once then then do it for one tester and one engineer, do it for 5 engineers.
+ 
+No collections to be used. It is based on the stuff you have already read.

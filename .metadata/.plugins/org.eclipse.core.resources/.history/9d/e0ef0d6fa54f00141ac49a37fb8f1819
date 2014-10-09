@@ -1,0 +1,11 @@
+
+abstract public class employee {
+	
+	public int age, totExp;
+	public String firstName, lastName;
+	
+	abstract public void toolsUsed();
+	abstract public void toolsExpExists();
+	abstract public void yearOfExpOnTool();
+
+}
